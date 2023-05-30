@@ -1,0 +1,10 @@
+2. 
+QS 2.1 Overloading by differing types of parameter : 
+       Try to add a method addDigitalVideoDisc which allows to pass an arbitrary number of arguments for dvd. Compare to an array parameter. What do you prefer in this case? 
+
+       Rep: In this case, I prefer to use the array parameter because it allows us to pass a list of objects more clearly and easier to handle.
+
+3. Passing parameter: 
+Qs: Is JAVA a Pass by Value or a Pass by Reference programming language? 
+
+In Java, parameter passing is always by value, which means that a copy of the variable's value is passed to the method or function. This makes Java a "pass-by-value" programming language.
